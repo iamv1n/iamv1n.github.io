@@ -1,11 +1,11 @@
-@import url(http://fonts.googleapis.com/css?family=Denk+One);
+@import url(https://fonts.googleapis.com/css2?family=New+Rocker&display=swap);
 body {
   background-color: #212121;
 }
 h1 {
   color: transparent;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-  font-family: 'Denk One', sans-serif;
+  font-family: 'New Rocker', cursive;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 2em;
