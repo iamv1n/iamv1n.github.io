@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css2?family=New+Rocker&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
 body {
   background-color: #1a1a1a;
 }
 h1 {
   color: transparent;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-  font-family: 'New Rocker', cursive;
+  font-family: 'Ubuntu Mono';
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 2em;
