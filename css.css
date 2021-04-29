@@ -6,7 +6,7 @@ h1 {
   color: transparent;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
   font-family: 'Ubuntu Mono',monospace;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 2px;
   font-size: 3em;
   position: absolute;
