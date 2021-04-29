@@ -8,7 +8,7 @@
 @blue: 255;
 
 body {
-  background-color: @dark-gray;
+  background-color: @black;
 }
 
 h1 {
