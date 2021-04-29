@@ -7,6 +7,9 @@
 @green: 255;
 @blue: 255;
 
+body {
+  background-color: @dark-gray;
+}
 
 h1 {
   color: transparent;
