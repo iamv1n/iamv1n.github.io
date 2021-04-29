@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+@import url(https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap);
 body {
   background-color: #1a1a1a;
 }
 h1 {
   color: transparent;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-  font-family: 'Ubuntu Mono';
+  font-family: 'Ubuntu Mono',monospace;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 2em;
