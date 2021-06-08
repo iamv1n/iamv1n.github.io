@@ -1,12 +1,13 @@
 @import url(https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap);
 body {
-  background-color: #1a1a1a;
+  background-color: #000000;
 }
 
 img {
   border-radius: 50%;
-  border-style:solid;
-  border-width:initial; 
+  border-style: solid;
+  border-width: initial; 
+  border-color: #1a1a1a;
   margin-top: 50px;
   height: 250px;
   transition: 1s;
