@@ -2,6 +2,18 @@
 body {
   background-color: #1a1a1a;
 }
+
+img {
+  border-radius: 50%;
+  height: 300px;
+  transition: 1s;
+  cursor: url("https://img.icons8.com/ios/30/4a90e2/fsociety-mask.png"), auto;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+  
 h1 {
   color: transparent;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
