@@ -5,7 +5,7 @@ body {
 
 img {
   border-radius: 50%;
-  height: 300px;
+  height: 250px;
   transition: 1s;
   cursor: url("https://img.icons8.com/ios/30/4a90e2/fsociety-mask.png"), auto;
 }
@@ -25,6 +25,7 @@ h1 {
   left: 50%;
   top: 35%;
   margin-left: -180px;
+  margin-top: 50px;
   -webkit-animation: horror-animation 5s infinite;
   -moz-animation: horror-animation 5s infinite;
   -o-animation: horror-animation 5s infinite;
