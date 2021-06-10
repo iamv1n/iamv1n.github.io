@@ -31,36 +31,32 @@ body {
           animation-delay: -16s;
 }
 .word:nth-child(2) {
-  -webkit-animation-delay: -14.4s;
-          animation-delay: -14.4s;
+  -webkit-animation-delay: -14.2222222222s;
+          animation-delay: -14.2222222222s;
 }
 .word:nth-child(3) {
-  -webkit-animation-delay: -12.8s;
-          animation-delay: -12.8s;
+  -webkit-animation-delay: -12.4444444444s;
+          animation-delay: -12.4444444444s;
 }
 .word:nth-child(4) {
-  -webkit-animation-delay: -11.2s;
-          animation-delay: -11.2s;
+  -webkit-animation-delay: -10.6666666667s;
+          animation-delay: -10.6666666667s;
 }
 .word:nth-child(5) {
-  -webkit-animation-delay: -9.6s;
-          animation-delay: -9.6s;
+  -webkit-animation-delay: -8.8888888889s;
+          animation-delay: -8.8888888889s;
 }
 .word:nth-child(6) {
-  -webkit-animation-delay: -8s;
-          animation-delay: -8s;
+  -webkit-animation-delay: -7.1111111111s;
+          animation-delay: -7.1111111111s;
 }
 .word:nth-child(7) {
-  -webkit-animation-delay: -6.4s;
-          animation-delay: -6.4s;
+  -webkit-animation-delay: -5.3333333333s;
+          animation-delay: -5.3333333333s;
 }
 .word:nth-child(8) {
-  -webkit-animation-delay: -4.8s;
-          animation-delay: -4.8s;
-}
-.word:nth-child(9) {
-  -webkit-animation-delay: -3.2s;
-          animation-delay: -3.2s;
+  -webkit-animation-delay: -3.5555555556s;
+          animation-delay: -3.5555555556s;
 }
 @-webkit-keyframes word {
   0%, 5%, 100% {
