@@ -21,6 +21,7 @@
       <label>Password</label>
     </div>
     <div id="login-form-submit">
+      <button onclick="myFunction()">
      <a href="Blogs/blog.html">
       <span></span>
       <span></span>
@@ -28,6 +29,17 @@
       <span></span>
       Submit
      </a>
+        <script>
+           const loginForm = document.getElementById("login-form");
+           const username = loginForm.username.value;
+           const password = loginForm.password.value;
+          function myFunction() {
+            
+            if (username === "lmaodedusers" && password === "yesuded") {
+            alert("You have successfully logged in.");
+            window.open("https://vind3v17.github.io/Webpage/Blogs/blog.html");
+           }
+</script>
   </form>
 </div>
   </body>
