@@ -8,6 +8,6 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "lmaodedusers" && password === "yesudead") {
         alert("You have successfully logged in.");
-        location.reload("Blogs/Blog.html");
+        location.open("Blogs/Blog.html");
     }
 })
