@@ -5,27 +5,31 @@
       Login
     </title>
     <link rel="stylesheet" href="login-css.css">
+    <script defer src="login-js.js"></script>
   </head>
   <body>
    
     <div class="login-box">
   <h2>Login</h2>
-  <form>
+  <form id="login-form">
     <div class="user-box">
-      <input type="text" name="" required="">
+      <input type="text" required="" name="username" id="username-field" class="login-form-field" placeholder="Username" >
       <label>Username</label>
     </div>
     <div class="user-box">
-      <input type="password" name="" required="">
+      <input type="password"  required="" name="password" id="password-field" class="login-form-field" placeholder="Password" >
       <label>Password</label>
     </div>
-    <a href="#">
+    <div class="submitb">
+     <a href="#">
+      <input type="submit" value="Login" id="login-form-submit">
       <span></span>
       <span></span>
       <span></span>
       <span></span>
       Submit
-    </a>
+     </a>
+    </div>
   </form>
 </div>
   </body>
