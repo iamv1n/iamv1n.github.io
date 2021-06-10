@@ -21,7 +21,7 @@
       <label>Password</label>
     </div>
     <div id="login-form-submit" onclick="myFunction()" >
-     <a href="Blogs/blog.html">
+     <a href="">
       <span></span>
       <span></span>
       <span></span>
@@ -29,10 +29,11 @@
       Submit
      </a>
         <script>
+           
+          function myFunction() {
            const loginForm = document.getElementById("login-form");
            const username = loginForm.username.value;
            const password = loginForm.password.value;
-          function myFunction() {
             
             if (username === "lmaodedusers" && password === "yesuded") {
             alert("You have successfully logged in.");
