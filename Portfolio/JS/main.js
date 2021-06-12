@@ -1,4 +1,4 @@
-gsap.registerPlugin(ScrollTrigger);
+let m = gsap.registerPlugin(ScrollTrigger);
 
 let hero = gsap.to(".hero", {
   scrollTrigger: {
