@@ -28,7 +28,7 @@ h1 {
   position: absolute;
   left: 50%;
   top: 35%;
-  margin-left: -180px;
+  margin-left: 30%;
   margin-top: 150px;
   -webkit-animation: horror-animation 5s infinite;
   -moz-animation: horror-animation 5s infinite;
