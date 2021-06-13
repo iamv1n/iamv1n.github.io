@@ -1,6 +1,6 @@
-let m = gsap.registerPlugin(ScrollTrigger);
+gsap.registerPlugin(ScrollTrigger);
 
-let hero = gsap.to(".hero", {
+gsap.to(".hero", {
   ScrollTrigger: {
     trigger: ".hero",
     scrub: true,
@@ -12,7 +12,7 @@ let hero = gsap.to(".hero", {
   }
 });
 
-let heroimage = gsap.to(".hero__image", {
+gsap.to(".hero__image", {
   ScrollTrigger: {
     trigger: ".hero",
     scrub: 0.5,
