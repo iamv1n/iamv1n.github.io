@@ -10,7 +10,14 @@
   margin: 50px;
   text-decoration: none;
   
+}
 
+.navcon main {
+
+ font-size: 14px;
+ font-color: white;
+ background: blue;
+ border-radius: 30px;
 
 }
 
