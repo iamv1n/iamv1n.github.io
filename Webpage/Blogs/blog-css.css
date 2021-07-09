@@ -8,8 +8,15 @@
   background-color: lightblue;
   Padding: 100px;
   margin: 50px;
+  text-decoration: none;
+  
 
 
+}
+
+.navcon {
+ Padding-right: 5px;
+ Padding-left:5px;
 }
 
 .content {
