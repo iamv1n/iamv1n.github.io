@@ -3,14 +3,12 @@
   padding: 0;
 }
 
-html,
-body {
-  overflow: hidden;
+.navbar {
+  border: 50px green;
 }
 
-.webgl {
-  position: fixed;
-  top: 0;
-  left: 0;
-  outline: none;
+.content {
+  border: 50px red;
+  
+  
 }
