@@ -5,10 +5,13 @@
 
 .navbar {
   border: 50px green;
+  background-color: lightblue;
+
+
 }
 
 .content {
   border: 50px red;
-  
+  background-color: lightgreen;
   
 }
