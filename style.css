@@ -1,7 +1,7 @@
 
 canvas {
   display: block;
-  
+  aspect-ratio: auto;
 }
 
 #particles-js {
